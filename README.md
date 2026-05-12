@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://guancyxx.cn"><img src="https://img.shields.io/badge/🌐_guancyxx.cn-0a0a0f?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgc3Ryb2tlPSIjMDBGRjQxIiBzdHJva2Utd2lkdGg9IjIiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIzIiBmaWxsPSIjMDBGRjQxIi8+PC9zdmc+" /></a>
-  <a href="mailto:hi@guancyxx.cn"><img src="https://img.shields.io/badge/📧_hi@guancyxx.cn-0a0a0f?style=flat-square" /></a>
+  <a href="mailto:guancyxx@guancyxx.cn"><img src="https://img.shields.io/badge/📧_guancyxx@guancyxx.cn-0a0a0f?style=flat-square" /></a>
 </p>
 
 <p align="center">
