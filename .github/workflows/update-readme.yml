@@ -1,0 +1,28 @@
+name: Update README with Latest Blog Posts
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-blog-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://guancyxx.cn/feed.xml"
+          max_post_count: 5
+          readme_path: "./README.md"
+          committer_username: "guancy"
+          committer_email: "guancy@users.noreply.github.com"
+          commit_message: "docs: update latest blog posts [skip ci]"
+          template: "$newline<table align=\"center\"><tr><td><a href=\"$url\">$title</a></td><td align=\"right\"><sub>$date</sub></td></tr>$newline</table>"
+          date_format: "yyyy-mm-dd"
+          disable_tags: true
+          tag_post_pre_newline: false
+          filter_comments: "BLOG-POST-LIST"

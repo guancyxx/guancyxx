@@ -1,0 +1,23 @@
+<svg width="800" height="24" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0a0a0f" stop-opacity="1" />
+      <stop offset="15%" stop-color="#0a0a0f" stop-opacity="1" />
+      <stop offset="30%" stop-color="#00FF41" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#00FF41" stop-opacity="0.9" />
+      <stop offset="70%" stop-color="#00FF41" stop-opacity="0.4" />
+      <stop offset="85%" stop-color="#0a0a0f" stop-opacity="1" />
+      <stop offset="100%" stop-color="#0a0a0f" stop-opacity="1" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="11" width="800" height="2" fill="url(#g)" />
+  <circle cx="400" cy="12" r="4" fill="#00FF41" opacity="0.9" />
+  <circle cx="300" cy="12" r="2" fill="#00FF41" opacity="0.5" />
+  <circle cx="340" cy="12" r="2" fill="#00FF41" opacity="0.35" />
+  <circle cx="370" cy="12" r="2" fill="#00FF41" opacity="0.6" />
+  <circle cx="430" cy="12" r="2" fill="#00FF41" opacity="0.6" />
+  <circle cx="460" cy="12" r="2" fill="#00FF41" opacity="0.35" />
+  <circle cx="500" cy="12" r="2" fill="#00FF41" opacity="0.5" />
+  <circle cx="160" cy="12" r="1.5" fill="#00FF41" opacity="0.25" />
+  <circle cx="640" cy="12" r="1.5" fill="#00FF41" opacity="0.25" />
+</svg>
