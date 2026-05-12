@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=guancy&color=00FF41&style=flat-square&label=VISITORS)](https://github.com/guancy)
+[![Profile Views](https://komarev.com/ghpvc/?username=guancyxx&color=00FF41&style=flat-square&label=VISITORS)](https://github.com/guancyxx)
 
 </div>
 
@@ -69,21 +69,21 @@ I run everything in Docker containers. Yes, everything.
 <div align="center">
 
 <!-- GitHub Stats -->
-<a href="https://github.com/guancy">
-  <img height="160" src="https://github-readme-stats-sigma-beryl.vercel.app/api?username=guancy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00FF41&icon_color=00FF41&text_color=888888&ring_color=00FF41&include_all_commits=true&count_private=true&hide=prs,issues" />
+<a href="https://github.com/guancyxx">
+  <img height="160" src="https://github-readme-stats-sigma-beryl.vercel.app/api?username=guancyxx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00FF41&icon_color=00FF41&text_color=888888&ring_color=00FF41&include_all_commits=true&count_private=true&hide=prs,issues" />
 </a>
-<a href="https://github.com/guancy">
-  <img height="160" src="https://github-readme-stats-sigma-beryl.vercel.app/api/top-langs/?username=guancy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00FF41&text_color=888888&langs_count=8&hide=javascript,css,scss,html" />
+<a href="https://github.com/guancyxx">
+  <img height="160" src="https://github-readme-stats-sigma-beryl.vercel.app/api/top-langs/?username=guancyxx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00FF41&text_color=888888&langs_count=8&hide=javascript,css,scss,html" />
 </a>
 
 <!-- Streak -->
-<a href="https://github.com/guancy">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=guancy&theme=tokyonight&hide_border=true&background=0a0a0f&stroke=00FF4144&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=888888&currStreakLabel=00FF41&sideLabels=888888&dates=555555" />
+<a href="https://github.com/guancyxx">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=guancyxx&theme=tokyonight&hide_border=true&background=0a0a0f&stroke=00FF4144&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=888888&currStreakLabel=00FF41&sideLabels=888888&dates=555555" />
 </a>
 
 <!-- Trophy -->
-<a href="https://github.com/guancy">
-  <img src="https://github-profile-trophy.vercel.app/?username=guancy&theme=tokyonight&no-frame=true&column=7&margin-w=8&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" />
+<a href="https://github.com/guancyxx">
+  <img src="https://github-profile-trophy.vercel.app/?username=guancyxx&theme=tokyonight&no-frame=true&column=7&margin-w=8&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" />
 </a>
 
 </div>
@@ -133,6 +133,6 @@ I run everything in Docker containers. Yes, everything.
  ╚══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://raw.githubusercontent.com/guancy/guancy/main/assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/guancyxx/guancyxx/main/assets/divider.svg" width="100%" />
 
 </div>
